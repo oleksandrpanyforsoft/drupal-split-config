@@ -1,0 +1,14 @@
+uuid: 954efe9f-1103-45d6-9e4b-1486ba015a56
+name: drupal8-prod
+mail: admin@drupal8.prod
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /user/login
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
