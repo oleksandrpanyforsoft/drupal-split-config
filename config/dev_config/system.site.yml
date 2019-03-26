@@ -1,6 +1,6 @@
 uuid: 954efe9f-1103-45d6-9e4b-1486ba015a56
-name: drupal8-local-changed
-mail: admin@drupal8.local
+name: drupal8-dev
+mail: admin@drupal8.prod
 slogan: ''
 page:
   403: ''
