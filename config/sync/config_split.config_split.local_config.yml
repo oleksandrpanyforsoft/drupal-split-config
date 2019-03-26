@@ -1,11 +1,11 @@
-uuid: d43a122f-b636-4e5e-bbac-f9bea7038c3a
+uuid: d7c8b2c7-7581-49fa-be99-fc1ab0cc382c
 langcode: en
 status: false
 dependencies: {  }
-id: dev_config
-label: 'Development config'
+id: local_config
+label: 'Local config'
 description: ''
-folder: ../config/dev_config
+folder: ../config/local_config
 module:
   devel: 0
   kint: 0
